@@ -1,0 +1,19 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<main id="main">
+  <style>
+    #image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto;
+  }
+  </style>
+  <h1 id="title">Hi</h1>
+  <div id="img-div">
+    <img src="https://bit.ly/fcc-relaxing-cat" id="image" style="max-width:600px;width:100%"></image>
+    <p id="img-caption">This is text</p>
+    <p id="tribute-info">This is more text</p>
+    <a href="" id="tribute-link" target="_blank">click here for more</a>
+  </div>
+</main>
